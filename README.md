@@ -1,16 +1,53 @@
 # advanced_nic_decoder
+SL Advanced NIC Decoder is a Flutter application that decodes Sri Lankan National Identity Card (NIC) numbers. It extracts and displays details such as birth date, gender, age, and NIC format. The app uses GetX for state management and navigation, Hive for local storage of NIC history, and Material UI for an enhanced user experience. Additional features include history tracking, QR scanning, and result sharing
 
-A new Flutter project.
+**Key Features:**
+
+•	NIC Decoding 
+•	History Storage 
+•	Settings 
+•	QR Scanning 
+•	Result Sharing 
+•	Enhanced UI with Material 3 
+•	Navigation with GetX 
+
+# Screenshots
+________________________________________
+
+
+## Technologies Used
+
+- **Flutter**
+- **Dart**
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these instructions to set up the project locally:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK 
+- Dart SDK
+- A code editor such as VS Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Steps
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Madhawa17/Book-Store-flutter.git
+   cd Bookstore-app
+   ```
+
+2. **Install Dependencies**:
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the App**:
+   ```bash
+   flutter run
+   ```
+
+---
