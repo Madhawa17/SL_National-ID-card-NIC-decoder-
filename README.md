@@ -4,12 +4,20 @@ SL Advanced NIC Decoder is a Flutter application that decodes Sri Lankan Nationa
 **Key Features:**
 
 •	NIC Decoding 
+
 •	History Storage 
+
 •	Settings 
+
 •	QR Scanning 
+
 •	Result Sharing 
-•	Enhanced UI with Material 3 
+
+•	Enhanced UI with Material 3
+
 •	Navigation with GetX 
+
+
 
 # Screenshots
 ________________________________________
